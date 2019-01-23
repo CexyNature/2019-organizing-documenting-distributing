@@ -1,8 +1,8 @@
 .. Code for the World documentation master file, created by
    sphinx-quickstart on Sat Sep  1 14:00:53 2018.
 
-Welcome to Code for the World
-=============================
+Welcome to Organizing, Documenting and Distributing
+===================================================
 
 Here are a few scenarios. Do any of them sound familiar? 
 
